@@ -28,8 +28,8 @@
 
 ## Запуск этой штуки
 
-1. **Активируйте виртуальное окружение** (если не активирывали кнш)**
-   Для Linux/Mac
+1. **Активируйте виртуальное окружение** (если не активирывали кнш)
+   *для Linux/Mac:*
    ```bash
    source .venv/bin/activate
    ```
@@ -132,7 +132,7 @@ curl -X POST "http://localhost:8000/orders/" \
    git push -u origin main
    ```
 
-7.*Если возникли проблемы** (например, divergent branches):
+7. **Если возникли проблемы** (например, divergent branches):
    - Попробуйте `git pull origin main --allow-unrelated-histories`
    - Или `git push -u origin main --force` (осторожно, перезапишет историю)
 
@@ -156,5 +156,7 @@ Online_Device_Shop/
  
 ```
 
-# Я немного начинаю понимать git :3
-### :Р
+####  Я немного начинаю понимать git :3
+####  ⠀
+####  ⠀
+#### :P
